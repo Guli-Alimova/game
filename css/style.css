@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(201, 226, 162);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+   
+}
+
+.animal{
+    border:none;
+    background-color: rgb(201, 226, 162);
+  
+}
+
+.score{
+   
+     
+    padding:14px;
+    width: 100px;
+    border-radius:10px;
+    border:1px solid rgb(156, 201, 89);
+    background-color: rgb(114, 146, 67);
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+.startbtn{
+    padding:14px;
+    width: 100px;
+    border-radius:10px;
+    border:1px solid rgb(150, 223, 42);
+    background-color: rgb(83, 131, 12);
+}
+.result{
+    padding:14px;
+    width: 60px;
+    border-radius:10px;
+    border:1px solid greenyellow;
+    background-color: greenyellow;
+    text-align: center;
+}
